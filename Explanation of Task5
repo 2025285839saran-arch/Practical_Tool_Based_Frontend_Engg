@@ -1,0 +1,4 @@
+This task uses a simple HTML button with an onclick event.
+When the button is clicked, a JavaScript function runs and displays an alert message. 
+CSS is used to slightly style the button for better appearance.
+This demonstrates basic event handling in JavaScript.
